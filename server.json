@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "price": "21.25",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORl99ZBIaQM0ZQ94i1lrvOhETXUUUMW449g&usqp=CAU",
+      "name": "Moda da casa",
+      "price": "34.90",
+      "description": "Pizza À Moda Meu Rancho é a nossa versão “À Moda da Casa”. A saborosa combinação do bacon, calabresa e do presunto Sadia, aliados à ingredientes fresquinhos e super selecionados. Ainda mais, além da seleção cuidadosa dos ingredientes, vêm o preparo cheio de carinho e bom gosto, que conferem igualmente à essa pizza um mix de sabores que funcionam muito bem juntos.",
+      "available": true,
+      "id": 4
     }
   ]
 }
